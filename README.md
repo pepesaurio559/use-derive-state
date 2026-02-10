@@ -96,7 +96,7 @@ This illustrates how this behavior was achieved in the past:
 
 ```typescript jsx
 function ChildComponent({ parentState }: { parentState: number }) {
-  const [derivedState, setDerivedState] = useDeriveState(parentState);
+  const [derivedState, setDerivedState] = useState(parentState);
 
   useEffect(() => {
     setDerivedState(parentState)
